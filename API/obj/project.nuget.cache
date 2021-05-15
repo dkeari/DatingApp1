@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ixajKBrNIRRvRSBitx0zcPQk8ku1Azn9ORV2WC1iwQX3CN7+ZLIH9hpg47cLuSwce1qmkBiTVFc0qcX2YXTz9A==",
+  "dgSpecHash": "PiQYv9T8TbmFZcssDcdTNX6e+2aUT0qksYoX8T9sL0n/zFFPg7kiD9FunpnRvuTMkOE1jB8wu+fsmMxgEge7Rg==",
   "success": true,
-  "projectFilePath": "C:\\udemy\\DatingApp\\API\\API.csproj",
+  "projectFilePath": "C:\\udemy\\DatingApp\\api\\API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dkeari.TPA\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\dkeari.TPA\\.nuget\\packages\\microsoft.data.sqlite.core\\6.0.0-preview.3.21201.2\\microsoft.data.sqlite.core.6.0.0-preview.3.21201.2.nupkg.sha512",
