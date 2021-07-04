@@ -1734,11 +1734,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\udemy\\DatingApp\\API\\API.csproj",
+      "projectUniqueName": "C:\\udemy\\DatingApp\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "c:\\udemy\\DatingApp\\API\\API.csproj",
+      "projectPath": "C:\\udemy\\DatingApp\\API\\API.csproj",
       "packagesPath": "C:\\Users\\dkeari.TPA\\.nuget\\packages\\",
-      "outputPath": "c:\\udemy\\DatingApp\\API\\obj\\",
+      "outputPath": "C:\\udemy\\DatingApp\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dkeari.TPA\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -1810,7 +1810,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }
