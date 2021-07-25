@@ -31,6 +31,9 @@ import { FileUploadModule } from 'ng2-file-upload';
 import { TextInputComponent } from './_forms/text-input/text-input.component';
 import { DateInputComponent } from './_forms/date-input/date-input.component';
 import { BsDatepickerModule } from 'ngx-bootstrap/datepicker';
+import { PaginationModule } from 'ngx-bootstrap/pagination';
+import { ButtonsModule } from 'ngx-bootstrap/buttons';
+import { TimeagoModule } from 'ngx-timeago';
 
 @NgModule({
   declarations: [
@@ -65,7 +68,10 @@ import { BsDatepickerModule } from 'ngx-bootstrap/datepicker';
       NgxSpinnerModule,
       FileUploadModule,
       ReactiveFormsModule,
-      BsDatepickerModule.forRoot()
+      BsDatepickerModule.forRoot(),
+      PaginationModule.forRoot(),
+      ButtonsModule.forRoot(),
+      TimeagoModule.forRoot()
 
   ],
   providers: [
