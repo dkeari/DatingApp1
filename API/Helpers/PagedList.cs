@@ -33,5 +33,10 @@ namespace API.Helpers
     {
       throw new NotImplementedException();
     }
+
+    internal static Task<PagedList<LikeDto>> CreateAsync(IQueryable<LikeDto> likedUsers)
+    {
+      throw new NotImplementedException();
+    }
   }
 }
